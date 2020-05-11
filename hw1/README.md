@@ -1,17 +1,18 @@
-# The first homework in the CSCI Web Technologies course taught at USC
+# CSCI 571
 
-## 
-Technologies Used: HTML, CSS
+### The first homework in the CSCI Web Technologies course taught at USC
 
-[Full description of the assignment]().
+## Technologies Used: HTML, CSS
+
+[Full description of the assignment](https://github.com/Nits2097/CSCI571-WebTechnologies-USC/blob/master/hw1/HW3_Description.pdf).
 
 Screenshots for the same:
 
-![alt text](https://imgur.com/j4UPy93)
+![Imgur](https://i.imgur.com/j4UPy93.png)
 
-![alt text](https://imgur.com/eUphqRy)
+![Imgur](https://i.imgur.com/eUphqRy.png)
 
-![alt text](https://imgur.com/wU0sAyg)
+![Imgur](https://i.imgur.com/wU0sAyg.png)
 
-![alt text](https://imgur.com/OSmJQn2)
+![Imgur](https://i.imgur.com/eUphqRy.png)
 
