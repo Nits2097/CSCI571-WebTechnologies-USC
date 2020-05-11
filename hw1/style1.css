@@ -1,0 +1,144 @@
+
+#outerBox{
+	padding: 0;
+	margin: 40px 260px 80px 260px;
+	border: 1px solid black;
+	font-family: Georgia;
+	text-align: center;
+	min-width: 700px;
+}
+
+#home{
+	color: black;
+}
+
+#titleName{
+	font-size: 60px;
+	margin: 10px;
+}
+
+#navbar{
+	text-align: center;
+	margin: 10px;
+}
+
+ul{
+	text-align: center;
+	list-style-type: none;
+  margin: 15px;
+  overflow: hidden;
+}
+
+li{
+	float:left;
+	font-style: italic;
+	padding: 10px;
+	text-align: center;
+	color: grey;
+}
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  margin: auto;
+  min-width: 1000px;
+
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+  align-items: center;
+  padding-right: 5px;
+  min-width: 1000px;
+
+
+}
+
+
+.row{
+	min-width: 1000px;
+}
+
+#pier{
+	padding-left: 220px;
+	width: 400px;
+	height: 400px;
+	object-fit: cover;
+	margin: auto;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	min-width: 400px;
+
+}
+
+#lake{
+	padding-left: 220px;
+	width: 400px;
+    height: 400px;
+    object-fit: cover;
+    margin: auto;
+	padding-right: 5px;
+		min-width: 400px;
+
+}
+
+#road{
+	width: 400px;
+    height: 400px;
+    object-fit: cover;
+    margin: auto;
+	padding-bottom: 5px;
+	min-width: 400px;
+
+}
+
+#mountain{
+	width: 400px;
+   	height: 400px;
+    object-fit: cover;
+    margin: auto;
+    min-width: 400px;
+
+
+}
+
+#footer{
+	padding-top: 20px;
+	padding-bottom: 15px;
+	font-size: 12px;
+	font-family: Georgia;
+	font-style: italic;
+	text-align: center;
+		min-width: 800px;
+
+}
+
+.column2 {
+  float: left;
+  margin: auto;
+}
+
+/* Clearfix (clear floats) */
+.row2::after {
+  content: "";
+  clear: both;
+  display: table;
+  align-items: center;
+  padding: 5px;
+}
+
+#fb{
+	padding-left: 580px;
+}
+
+.icon{
+	width:15px;
+	height:15px;
+	object-fit: cover;
+	margin: auto;
+	padding: 10px;
+}
+
